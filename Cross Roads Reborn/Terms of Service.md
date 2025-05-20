@@ -8,8 +8,8 @@ We are Cross Roads Games ("Company," "we," "us," "our").
 
 We operate , as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services").
 
-Battle Roosters Arena is a game played at the Discord Platform, using a bot. It allow users to compete do climb the global ladder to be the best Rooster Trainer. It draw
-inspiration in Pokémon.
+Cross Roads Reborn is a game played at the Discord Platform, using a bot. It allow users to compete do climb the global ladder to be the best player in the fictional city. It draw
+inspiration in Grand Theft Auto and The Crims.
 
 You can contact us by phone at +5551997072419 or by email at dudu.jacobi@gmail.com.
 

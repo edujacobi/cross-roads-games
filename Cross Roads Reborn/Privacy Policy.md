@@ -1,14 +1,14 @@
 ﻿# PRIVACY POLICY
 
-Last updated May 20, 2025
+Last updated August 25, 2024
 
 This Privacy Notice for Cross Roads Games ("we," "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal
 information when you use our services ("Services"), including when you:
 
-- Download and use our mobile application (Battle Roosters Arena), or any other application of ours that links to this Privacy Notice
+- Download and use our mobile application (Cross Roads Reborn), or any other application of ours that links to this Privacy Notice
 
-- Use Battle Roosters Arena. Battle Roosters Arena is a game played at the Discord Platform, using a bot. It allow users to compete do climb the global ladder to be
-the best Rooster Trainer. It draw inspiration in Pokemon.
+- Use Cross Roads Reborn. Cross Roads Reborn is a game played at the Discord Platform, using a bot. It allow users to compete do climb the global ladder to be the best player in the fictional city. It draw
+  inspiration in Grand Theft Auto and The Crims.
 
 - Engage with us in other related ways, including any sales, marketing, or events
 
@@ -394,7 +394,7 @@ you to review this Privacy Notice frequently to be informed of how we are protec
 
 ## 12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-If you have questions or comments about this notice, you may email us at dudu.jacobi@gmail.com
+If you have questions or comments about this notice, you may email us at dudu.jacobi@gmail.com.
 
 ## 13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
